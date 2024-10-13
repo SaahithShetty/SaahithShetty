@@ -1,3 +1,5 @@
+Here’s the updated README for your GitHub, reflecting the actual projects you’ve completed:
+
 👋 Hi, I’m Saahith Shetty!
 
 I’m an aspiring Machine Learning Engineer and Cloud AI Engineer with a strong foundation in Front-End Development. Currently pursuing my Master’s in Artificial Intelligence at Vrije University of Amsterdam, I’m focused on building innovative AI-driven solutions and deploying them at scale on cloud platforms.
@@ -13,13 +15,7 @@ I’m an aspiring Machine Learning Engineer and Cloud AI Engineer with a strong 
 	•	Frameworks: Express.js, Bootstrap
 	•	Testing: Jest, Mocha, End-to-End testing
 
-🚀 What I’m Currently Working On:
-
-	•	Developing end-to-end Machine Learning models using TensorFlow and AWS.
-	•	Building real-time React Native applications with a focus on performance and scalability.
-	•	Exploring MLOps to automate model deployment pipelines in cloud environments.
-
-🛠️ Projects:
+🚀 Projects:
 
 	1.	Eveels - Electric Vehicle Platform
 A platform for showcasing electric two-wheelers and four-wheelers, displaying all charging stations in India.
