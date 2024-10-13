@@ -40,5 +40,5 @@ A virtual room design tool allowing users to edit, add, and delete objects in a 
 - Enhancing my **MLOps** skills to automate model lifecycle management.
 
 ### 👥 **Let’s Connect**:
-- [LinkedIn](#https://www.linkedin.com/in/saahith-shetty-5543291ab/)
+- [LinkedIn](https://www.linkedin.com/in/saahith-shetty-5543291ab/)
 - [Email](mailto:shettysaahith123@gmail.com)
