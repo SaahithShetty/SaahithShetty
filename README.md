@@ -1,37 +1,44 @@
-Here’s the updated README for your GitHub, reflecting the actual projects you’ve completed:
+# 👋 Hi, I’m **Saahith Shetty**!
 
-👋 Hi, I’m Saahith Shetty!
+I’m an aspiring **Machine Learning Engineer** and **Cloud AI Engineer** with a strong foundation in **Front-End Development**. Currently pursuing my **Master’s in Artificial Intelligence** at **Vrije University of Amsterdam**, I'm focused on building innovative AI-driven solutions and deploying them at scale on **cloud platforms**.
 
-I’m an aspiring Machine Learning Engineer and Cloud AI Engineer with a strong foundation in Front-End Development. Currently pursuing my Master’s in Artificial Intelligence at Vrije University of Amsterdam, I’m focused on building innovative AI-driven solutions and deploying them at scale on cloud platforms.
+### 🔧 **Technical Skills**:
+- **Programming Languages**: Python, JavaScript, Node.js
+- **Front-End Development**: React.js, React Native, Redux
+- **Web Development**: HTML5, CSS3, REST APIs
+- **Cloud Platforms**: AWS (SageMaker, EC2, Lambda)
+- **Version Control**: Git, GitHub
+- **Databases**: Firebase, MongoDB
+- **Frameworks**: Express.js, Bootstrap
+- **Testing**: Jest, Mocha, End-to-End testing
 
-🔧 Technical Skills:
+### 🚀 **Projects**:
 
-	•	Programming Languages: Python, JavaScript, Node.js
-	•	Front-End Development: React.js, React Native, Redux
-	•	Web Development: HTML5, CSS3, REST APIs
-	•	Cloud Platforms: AWS (SageMaker, EC2, Lambda)
-	•	Version Control: Git, GitHub
-	•	Databases: Firebase, MongoDB
-	•	Frameworks: Express.js, Bootstrap
-	•	Testing: Jest, Mocha, End-to-End testing
+#### **1. Eveels - Electric Vehicle Platform**  
+A platform showcasing electric two-wheelers and four-wheelers with real-time charging station information across India.  
+- **Tech Stack**: React Native, Redux, REST APIs, Firebase  
+- **Role**: Developed the UI and managed state using Redux. Integrated real-time data from REST APIs and implemented cloud services for user assistance.
 
-🚀 Projects:
-	1.	Eveels - Electric Vehicle Platform
- 		•	A platform for showcasing electric two-wheelers and four-wheelers, displaying all charging stations in India.
-		•	Developed UI using React Native and implemented Redux for state management.
-		•	Integrated REST APIs and cloud services for real-time data display and user assistance through portable charger trucks.
-	2.	Curomates - Feel Happier Now
-		•	A user-powered platform to connect people with empathetic listeners, providing emotional support.
-		•	Role: API binding and front-end development using React Native.
-	3.	Jus TV - Broadcasting Platform
-		•	Developed a mobile app for a broadcasting company managing five TV channels and a radio station.
-		•	Created UI, integrated Redux, and implemented cloud storage using Firebase.
-	4.	Interioriva - Virtual Interior Design
-		•	Created a virtual room design tool, allowing users to edit, add, and delete objects in a 2D floor plan with object detection.
-		•	Used Machine Learning models and Unity to create an interactive experience for users to visualize room changes.
+#### **2. Curomates - Feel Happier Now**  
+A user-powered platform that connects users with empathetic listeners for emotional support.  
+- **Tech Stack**: React Native, API Integration  
+- **Role**: Front-end development and API binding to deliver a seamless user experience.
 
-🌱 What I’m Learning:
+#### **3. Jus TV - Broadcasting Platform**  
+A mobile application managing five TV channels and a radio station.  
+- **Tech Stack**: React Native, Redux, Firebase  
+- **Role**: Created the UI, integrated Redux for state management, and implemented cloud storage using Firebase.
 
-	•	Advanced Machine Learning techniques like NLP, Deep Learning, and Computer Vision.
-	•	Cloud-native AI deployment with AWS and Google Cloud.
-	•	Enhancing my MLOps skills to automate model lifecycle management.
+#### **4. Interioriva - Virtual Interior Design**  
+A virtual room design tool allowing users to edit, add, and delete objects in a 2D floor plan with object detection.  
+- **Tech Stack**: Unity, Machine Learning  
+- **Role**: Used machine learning models and Unity to create an interactive virtual room design experience.
+
+### 🌱 **What I’m Learning**:
+- Advanced **Machine Learning** techniques like **NLP**, **Deep Learning**, and **Computer Vision**.
+- Cloud-native AI deployment with **AWS** and **Google Cloud**.
+- Enhancing my **MLOps** skills to automate model lifecycle management.
+
+### 👥 **Let’s Connect**:
+- [LinkedIn](#https://www.linkedin.com/in/saahith-shetty-5543291ab/)
+- [Email](mailto:shettysaahith123@gmail.com)
