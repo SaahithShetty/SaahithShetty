@@ -16,19 +16,18 @@ I’m an aspiring Machine Learning Engineer and Cloud AI Engineer with a strong 
 	•	Testing: Jest, Mocha, End-to-End testing
 
 🚀 Projects:
-
 	1.	Eveels - Electric Vehicle Platform
-A platform for showcasing electric two-wheelers and four-wheelers, displaying all charging stations in India.
+ 	•	A platform for showcasing electric two-wheelers and four-wheelers, displaying all charging stations in India.
 	•	Developed UI using React Native and implemented Redux for state management.
 	•	Integrated REST APIs and cloud services for real-time data display and user assistance through portable charger trucks.
 	2.	Curomates - Feel Happier Now
-A user-powered platform to connect people with empathetic listeners, providing emotional support.
+	•	A user-powered platform to connect people with empathetic listeners, providing emotional support.
 	•	Role: API binding and front-end development using React Native.
 	3.	Jus TV - Broadcasting Platform
-Developed a mobile app for a broadcasting company managing five TV channels and a radio station.
+	•	Developed a mobile app for a broadcasting company managing five TV channels and a radio station.
 	•	Created UI, integrated Redux, and implemented cloud storage using Firebase.
 	4.	Interioriva - Virtual Interior Design
-Created a virtual room design tool, allowing users to edit, add, and delete objects in a 2D floor plan with object detection.
+	•	Created a virtual room design tool, allowing users to edit, add, and delete objects in a 2D floor plan with object detection.
 	•	Used Machine Learning models and Unity to create an interactive experience for users to visualize room changes.
 
 🌱 What I’m Learning:
