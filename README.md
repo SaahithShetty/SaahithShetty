@@ -4,6 +4,7 @@ I’m an aspiring **Machine Learning Engineer** and **Cloud AI Engineer** with a
 
 ### 🔧 **Technical Skills**:
 - **Programming Languages**: Python, JavaScript, Node.js
+- **Machine Learning Frameworks & Libraries**: TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas, Matplotlib
 - **Front-End Development**: React.js, React Native, Redux
 - **Web Development**: HTML5, CSS3, REST APIs
 - **Cloud Platforms**: AWS (SageMaker, EC2, Lambda)
