@@ -30,6 +30,24 @@
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaahithShetty&theme=tokyonight" alt="GitHub Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaahithShetty&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaahithShetty&theme=tokyonight" alt="Productive Time"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/SaahithShetty?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/SaahithShetty?style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+</p>
+
+---
+
 ## 🎯 Currently
 - 🔭 Working on: **Production ML Systems & MLOps Pipelines**
 - 🌱 Learning: **Advanced MLOps, Kubernetes, LLM Fine-tuning**
@@ -51,7 +69,7 @@ That means: data pipelines → training & evaluation → deployment-ready artifa
 
 ## 🧰 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,aws,gcp,docker,git,github,postgres,mongodb&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,django,js,ts,react,nodejs,aws,gcp,docker,git,github,postgres,mongodb&perline=13" />
 </p>
 
 ### **Machine Learning & AI**
@@ -62,7 +80,6 @@ That means: data pipelines → training & evaluation → deployment-ready artifa
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
 
 ### **MLOps & Deployment**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
@@ -73,17 +90,25 @@ That means: data pipelines → training & evaluation → deployment-ready artifa
 
 ### **Frontend & Mobile**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+### **Backend & APIs**
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
 ## 💼 Experience
 
 ### 🚀 Capisoft — Software Development Intern (Current)
-- Building and improving production-grade features with emphasis on **clean architecture, performance, and maintainability**
-- Contributing across the stack (front-end + backend integration) in an **Agile** engineering workflow
-- Working on **ML models** and building **reproducible pipelines** (data prep → training → evaluation → deployment-ready outputs)
+- Building production-grade features with **React + Chakra UI** (frontend) and **Django** (backend)
+- Contributing to **clean architecture, performance, and maintainability** across the full stack
+- Working in an **Agile** engineering workflow with modern CI/CD practices
+- Building **ML models** and **reproducible pipelines** (data prep → training → evaluation → deployment-ready outputs)
 
 ### 📱 LXME Fintech — Lead Front-End Developer (Feb 2024 – Jul 2024)
 - Led mobile front-end development using **React Native + Redux**
@@ -200,8 +225,8 @@ That means: data pipelines → training & evaluation → deployment-ready artifa
 | **NLP** | Transformers, Hugging Face, LangChain, RAG | ⭐⭐⭐⭐ |
 | **MLOps** | Docker, ONNX, FastAPI, MLflow, CI/CD | ⭐⭐⭐⭐ |
 | **Cloud** | AWS (SageMaker, EC2, Lambda), GCP (Vertex AI) | ⭐⭐⭐⭐ |
-| **Frontend** | React, React Native, Redux, TypeScript | ⭐⭐⭐⭐⭐ |
-| **Backend** | Node.js, FastAPI, Flask, REST APIs | ⭐⭐⭐⭐ |
+| **Frontend** | React, Chakra UI, React Native, Redux, TypeScript | ⭐⭐⭐⭐⭐ |
+| **Backend** | Django, Django REST, Node.js, FastAPI, Flask | ⭐⭐⭐⭐⭐ |
 | **Databases** | PostgreSQL, MongoDB | ⭐⭐⭐⭐ |
 
 ---
