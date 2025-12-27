@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I’m Saahith Shetty 👋</h1>
-<h3 align="center">Software Development Intern @ Capisoft • Machine Learning Engineer (in progress) • Cloud AI / MLOps</h3>
+<h3 align="center">Software Development Intern @ Capisoft • Machine Learning Engineer • Full Stack Development • Cloud AI / MLOps</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saahith-shetty-5543291ab/">
@@ -89,18 +89,6 @@ That means: data pipelines → training & evaluation → deployment-ready artifa
 - Built training environments (navigation, obstacle avoidance, manipulation) + reward design  
 - Dockerized cross-platform stack for reproducibility  
 🔗 Repo: [link]
-
----
-
-## 📈 GitHub Snapshot
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaahithShetty&show_icons=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaahithShetty&layout=compact" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SaahithShetty" height="165"/>
-</p>
 
 ---
 
