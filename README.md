@@ -94,12 +94,12 @@ That means: data pipelines → training & evaluation → deployment-ready artifa
 
 ## 📈 GitHub Snapshot
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SaahithShetty&show_icons=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaahithShetty&layout=compact" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=SaahithShetty" height="165"/>
 </p>
 
 ---
