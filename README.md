@@ -1,12 +1,22 @@
-<h1 align="center">Hi, I'm Saahith Shetty 👋</h1>
-<h3 align="center">Software Development Intern @ Capisoft • Machine Learning Engineer • Full Stack Development • Cloud AI / MLOps</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Saahith%20Shetty&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff" />
+</div>
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=600&lines=Hi%2C+I'm+Saahith+Shetty+%F0%9F%91%8B;ML+Engineer+%7C+Full+Stack+Developer;Building+Production+ML+Systems;MSc+AI+%40+Vrije+Universiteit+Amsterdam" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saahith-shetty-5543291ab/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saahith%20Shetty-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:shettysaahith123@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-shettysaahith123%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/SaahithShetty">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=SaahithShetty&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
@@ -33,12 +43,32 @@
 ## 📈 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaahithShetty&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SaahithShetty&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaahithShetty&theme=tokyonight" alt="GitHub Profile Summary"/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaahithShetty&theme=tokyonight" alt="GitHub Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaahithShetty&theme=tokyonight" alt="Productive Time"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaahithShetty&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaahithShetty/SaahithShetty/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaahithShetty/SaahithShetty/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SaahithShetty/SaahithShetty/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 <p align="center">
@@ -68,6 +98,16 @@ That means: data pipelines → training & evaluation → deployment-ready artifa
 ---
 
 ## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+</p>
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,js,ts,react,nodejs,aws,gcp,docker,git,github,postgres,mongodb&perline=13" />
 </p>
@@ -282,6 +322,12 @@ I'm always interested in:
 ---
 
 <p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+---
+
+<p align="center">
   <i>⚡ "Building ML systems that work in production, not just in notebooks"</i>
 </p>
 
@@ -290,3 +336,7 @@ I'm always interested in:
   <img src="https://img.shields.io/badge/Focus-Production_ML-blue?style=for-the-badge" alt="Focus"/>
   <img src="https://img.shields.io/badge/Location-Amsterdam-orange?style=for-the-badge" alt="Location"/>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
