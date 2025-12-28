@@ -105,18 +105,12 @@ That means: data pipelines → training & evaluation → deployment-ready artifa
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/nidejs-icon.svg" alt="nodejs" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/gcp-icon.svg" alt="gcp" width="65" height="65" />
-
-
-  
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
 </p>
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,js,ts,react,nodejs, aws,gcp,docker,git,github,postgres,mongodb&perline=13" />
+  <img src="https://skillicons.dev/icons?i=nodejs,gcp,git,postgres,mongodb&perline=13" />
 </p>
 
 ### **Machine Learning & AI**
