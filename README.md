@@ -83,7 +83,7 @@
 I build **production-ready ML systems** — not just notebooks.
 That means: data pipelines → training & evaluation → deployment-ready artifacts → APIs → cloud.
 
-- Current role: **Software Development Intern @ Capisoft**
+- Current role: **Technical Project Manager @ Capisoft**
 - Focus areas: **NLP, Computer Vision, MLOps, and Cloud AI deployment**
 - Background: **4+ years** building scalable front-end and full-stack features (React / React Native)
 
