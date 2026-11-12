@@ -137,7 +137,7 @@ That means: data pipelines → training & evaluation → deployment-ready artifa
 
 ## 💼 Experience
 
-### 🚀 Capisoft — Software Development Intern (Current)
+### 🚀 Capisoft — Technical Project Manager (Current)
 - Building production-grade features with **React + Chakra UI** (frontend) and **Django** (backend)
 - Contributing to **clean architecture, performance, and maintainability** across the full stack
 - Working in an **Agile** engineering workflow with modern CI/CD practices
