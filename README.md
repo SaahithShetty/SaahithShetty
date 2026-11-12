@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=600&lines=Hi%2C+I'm+Saahith+Shetty+%F0%9F%91%8B;ML+Engineer+%7C+Full+Stack+Developer;Building+Production+ML+Systems;MSc+AI+%40+Vrije+Universiteit+Amsterdam" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=600&lines=Hi%2C+I'm+Saahith+Shetty+%F0%9F%91%8B;Technical+Project+Manager+%40+Capisoft;AI+%2F+ML+%26+Full-Stack+Engineer;MSc+AI+Graduate+%40+Vrije+Universiteit+Amsterdam" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,14 +22,16 @@
 </p>
 
 <p align="center">
-  🎓 MSc AI @ Vrije Universiteit Amsterdam (2024–Present) • 🌍 Amsterdam • ☁️ AWS/GCP • 🧪 Production ML Systems • 🧱 4+ yrs Software Engineering
+  💼 Technical Project Manager @ Capisoft • 🎓 MSc AI, Vrije Universiteit Amsterdam (2024–2026) • 🌍 Amsterdam • ☁️ AWS/GCP • 🧱 4+ yrs Software Engineering
 </p>
 
 ---
 
 ## 📊 By the Numbers
 ```text
+🎓 MSc              Artificial Intelligence, VU Amsterdam (2026)
 🎯 4+ Years          Software Engineering Experience
+🏢 6                Production Products Shipped at Capisoft
 🏆 85%+             ML Model Accuracy (Food Vision)
 📦 200k+            Training Samples Processed
 🚀 Multiple         Production ML Deployments
@@ -71,7 +73,9 @@
 ---
 
 ## 🎯 Currently
-- 🔭 Working on: **Production ML Systems & MLOps Pipelines**
+- 💼 Role: **Technical Project Manager @ Capisoft**, Amsterdam
+- 🎓 Just finished: **MSc in Artificial Intelligence @ Vrije Universiteit Amsterdam** (2026)
+- 🔭 Working on: **production web and mobile apps, LLM agents and RAG pipelines**
 - 🌱 Learning: **Advanced MLOps, Kubernetes, LLM Fine-tuning**
 - 👯 Open to collaborate on: **Production ML systems, Open-source ML tools**
 - 💬 Ask me about: **ML deployment, React Native, Cloud AI, Transfer Learning**
@@ -84,7 +88,8 @@ I build **production-ready ML systems** — not just notebooks.
 That means: data pipelines → training & evaluation → deployment-ready artifacts → APIs → cloud.
 
 - Current role: **Technical Project Manager @ Capisoft**
-- Focus areas: **NLP, Computer Vision, MLOps, and Cloud AI deployment**
+- Education: **MSc in Artificial Intelligence**, Vrije Universiteit Amsterdam (2024–2026)
+- Focus areas: **LLM agents & RAG, NLP, Computer Vision, MLOps, and Cloud AI deployment**
 - Background: **4+ years** building scalable front-end and full-stack features (React / React Native)
 
 ---
@@ -138,10 +143,12 @@ That means: data pipelines → training & evaluation → deployment-ready artifa
 ## 💼 Experience
 
 ### 🚀 Capisoft — Technical Project Manager (Current)
-- Building production-grade features with **React + Chakra UI** (frontend) and **Django** (backend)
-- Contributing to **clean architecture, performance, and maintainability** across the full stack
-- Working in an **Agile** engineering workflow with modern CI/CD practices
-- Building **ML models** and **reproducible pipelines** (data prep → training → evaluation → deployment-ready outputs)
+Started as an intern, then AI / ML & full-stack engineer, now Technical Project Manager.
+- Worked on **six production products**: brand protection, AI assistant & CRM, ad creative intelligence, sports analytics, a healthcare marketplace and a rights-holder portal
+- **AI & ML:** LLM agents and RAG pipelines with **LangGraph** and **pgvector** (hybrid retrieval, reranking), computer-vision modules in **PyTorch** and **Hugging Face**, served on **SageMaker** and **Bedrock**
+- **Backend:** **Django 5 + DRF** services with **Celery** worker fleets, **Go** services, PostgreSQL query optimisation, Stripe payments
+- **Frontend & mobile:** **React 19 / Next.js** monorepos (Nx, Turborepo), **Capacitor** and **Expo** apps, including a native **iOS Swift** tab-bar plugin used across the company's apps
+- **Cloud:** **Terraform**-managed AWS, **Kubernetes**, Bitbucket Pipelines CI/CD, Datadog and Sentry
 
 ### 📱 LXME Fintech — Lead Front-End Developer (Feb 2024 – Jul 2024)
 - Led mobile front-end development using **React Native + Redux**
@@ -157,6 +164,25 @@ That means: data pipelines → training & evaluation → deployment-ready artifa
 - Delivered responsive web interfaces with **React + Redux + REST**
 - Collaborated on full-stack features for multiple clients
 - Maintained high code quality standards through peer reviews
+
+---
+
+## 🎓 Education
+
+### Vrije Universiteit Amsterdam — MSc Artificial Intelligence (Sep 2024 – Jul 2026)
+- **Thesis:** decidable fragments of strategic logics under imperfect information (ATL / ATL\*), building counterexample models and verifying them with the **MCMAS** model checker
+- **Coursework:** Deep Learning, Reinforcement Learning, NLP, Machine Learning Theory, Computer Vision, AI Ethics
+
+### SIES Graduate School of Technology — BE Computer Engineering (2019 – 2023)
+
+---
+
+## 🛠️ Recent Projects (2026, private repos)
+
+- 🏠 **HouseHunt:** automated rental search. Listings from email, websites and a Chrome extension, deduplicated and scored by an LLM against my criteria, with application letters I approve before they go out (Python, Claude Agent SDK, Playwright, SQLite)
+- 📈 **Sentinel:** paper-trading-first crypto momentum system with walk-forward backtesting, a point-in-time data layer against lookahead bias and a risk engine with circuit breakers (Python, Celery, TimescaleDB, Docker)
+- 🤖 **agent-os:** multi-agent development orchestrator. A LangGraph state machine splits goals into tasks for backend, frontend and QA agents, with critic agents and a human approval gate (LangGraph, FastAPI, Next.js, Postgres)
+- 🚗 **Stroom:** ride-sharing platform with geospatial matching, real-time ride tracking and separate rider and driver apps (Django, PostGIS, Channels, React Native, Expo)
 
 ---
 
@@ -255,9 +281,9 @@ That means: data pipelines → training & evaluation → deployment-ready artifa
 |--------|-------------|-----------|
 | **Machine Learning** | TensorFlow, PyTorch, Keras, Scikit-learn | ⭐⭐⭐⭐⭐ |
 | **Deep Learning** | CNNs, RNNs, LSTMs, Transfer Learning | ⭐⭐⭐⭐⭐ |
-| **NLP** | Transformers, Hugging Face, LangChain, RAG | ⭐⭐⭐⭐ |
+| **NLP & LLMs** | Transformers, Hugging Face, LangChain, LangGraph, RAG, pgvector | ⭐⭐⭐⭐ |
 | **MLOps** | Docker, ONNX, FastAPI, MLflow, CI/CD | ⭐⭐⭐⭐ |
-| **Cloud** | AWS (SageMaker, EC2, Lambda), GCP (Vertex AI) | ⭐⭐⭐⭐ |
+| **Cloud** | AWS (Bedrock, SageMaker, EKS, S3, Lambda), GCP (Vertex AI), Kubernetes, Terraform | ⭐⭐⭐⭐ |
 | **Frontend** | React, Chakra UI, React Native, Redux, TypeScript | ⭐⭐⭐⭐⭐ |
 | **Backend** | Django, Django REST, Node.js, FastAPI, Flask | ⭐⭐⭐⭐⭐ |
 | **Databases** | PostgreSQL, MongoDB | ⭐⭐⭐⭐ |
@@ -294,7 +320,8 @@ That means: data pipelines → training & evaluation → deployment-ready artifa
 - 📈 Achieved **85%+ accuracy** on Food-101 classification (101 classes)
 - 🧪 Built end-to-end MLOps pipelines with **CI/CD automation**
 - 👥 Led frontend teams at **LXME Fintech** and **Bulidozer**
-- 🎓 Pursuing **MSc in AI** at Vrije Universiteit Amsterdam
+- 🎓 Completed an **MSc in Artificial Intelligence** at Vrije Universiteit Amsterdam (2026)
+- 🏢 Grew from intern to **Technical Project Manager** at Capisoft
 - 📚 Earned **10+ professional certifications** in ML/AI and software engineering
 - ☁️ Hands-on experience with **AWS & GCP** for ML deployment
 
